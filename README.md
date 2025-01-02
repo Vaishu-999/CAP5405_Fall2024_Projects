@@ -1,5 +1,8 @@
 # CAP5405_Fall2024_Projects
-This is a brief description of the project.
+There are several project ideas 
+Here is the [Project list ](path/to/file)
+##
+
 
 ## Features
 - Feature 1
